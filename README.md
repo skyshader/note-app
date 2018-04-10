@@ -1,4 +1,4 @@
-# Note App for Udacity Mobile Web Program
+# Note App
 
 You need following tools to run this project:
 - Node.js
